@@ -37,6 +37,7 @@ public class FacebookLoginActivity extends AppCompatActivity implements View.OnC
     // [START declare_auth]
     private FirebaseAuth mAuth;
     // [END declare_auth]
+    // [END declare_auth]
 
     // [START declare_auth_listener]
     private FirebaseAuth.AuthStateListener mAuthListener;
