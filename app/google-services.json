@@ -1,0 +1,133 @@
+{
+  "project_info": {
+    "project_number": "870200290866",
+    "firebase_url": "https://fir-authentication-fa06e.firebaseio.com",
+    "project_id": "fir-authentication-fa06e",
+    "storage_bucket": "fir-authentication-fa06e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870200290866:android:d628f00250e10a7f",
+        "android_client_info": {
+          "package_name": "ilightning.firebaseauthenticaion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870200290866-3q756nmos4e7pr157cqr323m4l3op56c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ilightning.firebaseauthenticaion",
+            "certificate_hash": "6CA79803E5A77B0C7B30366AA2A3445405B80276"
+          }
+        },
+        {
+          "client_id": "870200290866-528glschf1uvrscghjjmpk3u3a3ldia8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXgaDeZjzwJ5s4y-g_yQ6_Rcvxs2MY2Do"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870200290866-528glschf1uvrscghjjmpk3u3a3ldia8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870200290866:android:8b541609fadd6ab3",
+        "android_client_info": {
+          "package_name": "hoangtv.iliggtning.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870200290866-sd5nfr4eu9b8scea078e95f55cu47sps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hoangtv.iliggtning.mobile",
+            "certificate_hash": "6CA79803E5A77B0C7B30366AA2A3445405B80276"
+          }
+        },
+        {
+          "client_id": "870200290866-528glschf1uvrscghjjmpk3u3a3ldia8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXgaDeZjzwJ5s4y-g_yQ6_Rcvxs2MY2Do"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870200290866:android:d32fae22d5a338fc",
+        "android_client_info": {
+          "package_name": "com.hoangtv.authenticationdemo1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870200290866-oichhqr52m4u9s40unc901bdb8ars3do.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hoangtv.authenticationdemo1",
+            "certificate_hash": "6CA79803E5A77B0C7B30366AA2A3445405B80276"
+          }
+        },
+        {
+          "client_id": "870200290866-528glschf1uvrscghjjmpk3u3a3ldia8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXgaDeZjzwJ5s4y-g_yQ6_Rcvxs2MY2Do"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
