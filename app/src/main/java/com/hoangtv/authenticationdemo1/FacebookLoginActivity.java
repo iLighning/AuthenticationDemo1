@@ -81,6 +81,7 @@ public class FacebookLoginActivity extends AppCompatActivity implements View.OnC
                 } else {
                     // User is signed out
                     Log.d(TAG, "onAuthStateChanged:signed_out");
+                    Log.d(TAG, "onAuthStateChanged:signed_out");
                 }
                 // [START_EXCLUDE]
                 updateUI(user);
